@@ -1,0 +1,50 @@
+name: birthdays
+description: A new Flutter project.
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.17.0
+  shared_preferences: ^2.0.13
+  sqflite: ^2.0.0+4
+  path: ^1.8.1
+  flutter_cache_manager: ^3.0.0
+  image_picker: ^0.8.6+3
+  path_provider: ^2.0.11
+
+
+  cupertino_icons: ^1.0.2
+  readmore: ^2.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+    
+  fonts:
+    - family: TiltPrism
+      fonts:
+        - asset: assets/fonts/static/TiltPrism-Regular.ttf
+    - family: Kanit
+      fonts:
+        - asset: assets/fonts/Kanit/Kanit-Medium.ttf
+    - family: gluten
+      fonts:
+        - asset: assets/fonts/gluten/static/Gluten-Regular.ttf
+    
+  

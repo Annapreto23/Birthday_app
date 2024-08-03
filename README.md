@@ -10,7 +10,7 @@ Welcome to this Flutter project! *Birthdays App* is an application designed to s
 - **Save Birthdays**: Store birthdays with names and dates.
 - **Upcoming Birthdays**: Automatically identify and display the next upcoming birthday.
 - **Search Functionality**: Quickly search for birthdays by name.
-- **Customizable Images**: Associate custom images with each name, with a default image fallback.
+- **Customizable Images**: Associate custom images with each name.
 
 
 ## Just Using the Application (Android)
@@ -20,7 +20,7 @@ If you only want to use the application without modifying the code:
 1. Download the APK from the [latest release](https://github.com/Annapreto23/Birthdays_app/releases/tag/v1.0.0).
 2. Install the APK on your Android device.
 
-IOS version will comme later.
+IOS version will come later.
 
 ## Getting Started with Android Studio
 

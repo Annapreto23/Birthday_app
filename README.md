@@ -1,8 +1,5 @@
 # Birthdays App
 
-<<<<<<< HEAD
-Welcome in this Flutter project! TODO
-=======
 Welcome to this Flutter project! *Birthdays App* is an application designed to save and manage the birthdays of your loved ones. The app provides an intuitive interface to input, view, and search for birthdays, ensuring you never forget an important date again.
 
 ## Features
@@ -81,5 +78,5 @@ The main code of the app is located in the `lib` directory. To make changes to t
   - `lib/`: Contains the main Dart code for the application.
   - `lib/main.dart`: The main entry point for the application where the app is initialized and run.
   - `assets/`: Contains any assets such as images or fonts used by the app.
->>>>>>> f6039b6 (Updating the README file)
+
 
